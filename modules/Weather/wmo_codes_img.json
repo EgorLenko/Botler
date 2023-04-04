@@ -1,0 +1,402 @@
+{
+    "00": [
+        "https://www.meteopool.org/theme/images/wwCodes/00.gif",
+        "Cloud development not observed or not observable"
+    ],
+    "01": [
+        "https://www.meteopool.org/theme/images/wwCodes/01.gif",
+        "Cloud generally dissolving or becoming less developed"
+    ],
+    "02": [
+        "https://www.meteopool.org/theme/images/wwCodes/02.gif",
+        "State of sky on the whole unchanged"
+    ],
+    "03": [
+        "https://www.meteopool.org/theme/images/wwCodes/03.gif",
+        "Clouds generally forming or developing"
+    ],
+    "04": [
+        "https://www.meteopool.org/theme/images/wwCodes/04.gif",
+        "Visibility reduced by smoke"
+    ],
+    "05": [
+        "https://www.meteopool.org/theme/images/wwCodes/05.gif",
+        "Haze"
+    ],
+    "06": [
+        "https://www.meteopool.org/theme/images/wwCodes/06.gif",
+        "Widespread dust in suspension in the air"
+    ],
+    "07": [
+        "https://www.meteopool.org/theme/images/wwCodes/07.gif",
+        "Dust or sand raised by wind at or near the station"
+    ],
+    "08": [
+        "https://www.meteopool.org/theme/images/wwCodes/08.gif",
+        "Well-developed dust or sand whirl(s)"
+    ],
+    "09": [
+        "https://www.meteopool.org/theme/images/wwCodes/09.gif",
+        "Duststorm or sandstorm within sight or at the station"
+    ],
+    "10": [
+        "https://www.meteopool.org/theme/images/wwCodes/10.gif",
+        "Mist"
+    ],
+    "11": [
+        "https://www.meteopool.org/theme/images/wwCodes/11.gif",
+        "Patches of shallow fog or ice fog at the station"
+    ],
+    "12": [
+        "https://www.meteopool.org/theme/images/wwCodes/12.gif",
+        "More or less continuous shallow fog or ice fog at the station"
+    ],
+    "13": [
+        "https://www.meteopool.org/theme/images/wwCodes/13.gif",
+        "Lightning visible, no thunder heard "
+    ],
+    "14": [
+        "https://www.meteopool.org/theme/images/wwCodes/14.gif",
+        "Precipitation within sight, not reaching the ground"
+    ],
+    "15": [
+        "https://www.meteopool.org/theme/images/wwCodes/15.gif",
+        "Precipitation within sight, reaching the ground > 5 km from the station "
+    ],
+    "16": [
+        "https://www.meteopool.org/theme/images/wwCodes/16.gif",
+        "Precipitation within sight near to, but not at the station"
+    ],
+    "17": [
+        "https://www.meteopool.org/theme/images/wwCodes/17.gif",
+        "Thunderstorm, but no precipitation"
+    ],
+    "18": [
+        "https://www.meteopool.org/theme/images/wwCodes/18.gif",
+        "Squalls at or within sight of the station"
+    ],
+    "19": [
+        "https://www.meteopool.org/theme/images/wwCodes/19.gif",
+        "Funnel clouds at or within sight of the station"
+    ],
+    "20": [
+        "https://www.meteopool.org/theme/images/wwCodes/20.gif",
+        "Drizzle (not freezing) or snow grains, not falling as showers"
+    ],
+    "21": [
+        "https://www.meteopool.org/theme/images/wwCodes/21.gif",
+        "Rain (not freezing), not falling as showers"
+    ],
+    "22": [
+        "https://www.meteopool.org/theme/images/wwCodes/22.gif",
+        "Snow, not falling as showers"
+    ],
+    "23": [
+        "https://www.meteopool.org/theme/images/wwCodes/23.gif",
+        "Rain and snow or ice pellets, not falling as showers"
+    ],
+    "24": [
+        "https://www.meteopool.org/theme/images/wwCodes/24.gif",
+        "Freezing drizzle or freezing rain"
+    ],
+    "25": [
+        "https://www.meteopool.org/theme/images/wwCodes/25.gif",
+        "Shower(s) of rain"
+    ],
+    "26": [
+        "https://www.meteopool.org/theme/images/wwCodes/26.gif",
+        "Shower(s) of snow, or of rain and snow"
+    ],
+    "27": [
+        "https://www.meteopool.org/theme/images/wwCodes/27.gif",
+        "Shower(s) of hail, or of rain and hail"
+    ],
+    "28": [
+        "https://www.meteopool.org/theme/images/wwCodes/28.gif",
+        "Fog or ice fog"
+    ],
+    "29": [
+        "https://www.meteopool.org/theme/images/wwCodes/29.gif",
+        "Thunderstorm (with or without precipitation)"
+    ],
+    "30": [
+        "https://www.meteopool.org/theme/images/wwCodes/30.gif",
+        "Slight or moderate duststorm or sandstorm - has decreased"
+    ],
+    "31": [
+        "https://www.meteopool.org/theme/images/wwCodes/31.gif",
+        "Slight or moderate duststorm or sandstorm - no appreciable change"
+    ],
+    "32": [
+        "https://www.meteopool.org/theme/images/wwCodes/32.gif",
+        "Slight or moderate duststorm or sandstorm - has begun or has increased"
+    ],
+    "33": [
+        "https://www.meteopool.org/theme/images/wwCodes/33.gif",
+        "Severe duststorm or sandstorm - has decreased"
+    ],
+    "34": [
+        "https://www.meteopool.org/theme/images/wwCodes/34.gif",
+        "Severe duststorm or sandstorm - no appreciable change"
+    ],
+    "35": [
+        "https://www.meteopool.org/theme/images/wwCodes/35.gif",
+        "Severe duststorm or sandstorm - has begun or has increased"
+    ],
+    "36": [
+        "https://www.meteopool.org/theme/images/wwCodes/36.gif",
+        "Slight/moderate drifting snow - generally low (below eye level)"
+    ],
+    "37": [
+        "https://www.meteopool.org/theme/images/wwCodes/37.gif",
+        "Heavy drifting snow - generally low (below eye level)"
+    ],
+    "38": [
+        "https://www.meteopool.org/theme/images/wwCodes/38.gif",
+        "Slight/moderate blowing snow - generally high (above eye level)"
+    ],
+    "39": [
+        "https://www.meteopool.org/theme/images/wwCodes/39.gif",
+        "Heavy blowing snow - generally high (above eye level)"
+    ],
+    "40": [
+        "https://www.meteopool.org/theme/images/wwCodes/40.gif",
+        "Fog or ice fog at distance, but not at station"
+    ],
+    "41": [
+        "https://www.meteopool.org/theme/images/wwCodes/41.gif",
+        "Fog or ice fog in patches"
+    ],
+    "42": [
+        "https://www.meteopool.org/theme/images/wwCodes/42.gif",
+        "Fog/ice fog, sky visible, has become thinner"
+    ],
+    "43": [
+        "https://www.meteopool.org/theme/images/wwCodes/43.gif",
+        "Fog/ice fog, sky invisible, has become thinner"
+    ],
+    "44": [
+        "https://www.meteopool.org/theme/images/wwCodes/44.gif",
+        "Fog or ice fog, sky visible, no appreciable change"
+    ],
+    "45": [
+        "https://www.meteopool.org/theme/images/wwCodes/45.gif",
+        "Fog or ice fog, sky invisible, no appreciable change"
+    ],
+    "46": [
+        "https://www.meteopool.org/theme/images/wwCodes/46.gif",
+        " Fog or ice fog, sky visible, has begun or has become thicker"
+    ],
+    "47": [
+        "https://www.meteopool.org/theme/images/wwCodes/47.gif",
+        "Fog or ice fog, sky invisible, has begun or has become thicker"
+    ],
+    "48": [
+        "https://www.meteopool.org/theme/images/wwCodes/48.gif",
+        "Fog, depositing rime, sky visible"
+    ],
+    "49": [
+        "https://www.meteopool.org/theme/images/wwCodes/49.gif",
+        "Fog, depositing rime, sky invisible"
+    ],
+    "50": [
+        "https://www.meteopool.org/theme/images/wwCodes/50.gif",
+        "Drizzle, not freezing, intermittent, slight"
+    ],
+    "51": [
+        "https://www.meteopool.org/theme/images/wwCodes/51.gif",
+        "Drizzle, not freezing, continuous, slight"
+    ],
+    "52": [
+        "https://www.meteopool.org/theme/images/wwCodes/52.gif",
+        "Drizzle, not freezing, intermittent, moderate"
+    ],
+    "53": [
+        "https://www.meteopool.org/theme/images/wwCodes/53.gif",
+        "Drizzle, not freezing, continuous, moderate"
+    ],
+    "54": [
+        "https://www.meteopool.org/theme/images/wwCodes/54.gif",
+        "Drizzle, not freezing, intermittent, heavy"
+    ],
+    "55": [
+        "https://www.meteopool.org/theme/images/wwCodes/55.gif",
+        "Drizzle, not freezing, continuous, heavy"
+    ],
+    "56": [
+        "https://www.meteopool.org/theme/images/wwCodes/56.gif",
+        "Drizzle, freezing, slight"
+    ],
+    "57": [
+        "https://www.meteopool.org/theme/images/wwCodes/57.gif",
+        "Drizzle, freezing, moderate or heavy (dense)"
+    ],
+    "58": [
+        "https://www.meteopool.org/theme/images/wwCodes/58.gif",
+        "Rain and drizzle, slight"
+    ],
+    "59": [
+        "https://www.meteopool.org/theme/images/wwCodes/59.gif",
+        "Rain and drizzle, moderate or heavy"
+    ],
+    "60": [
+        "https://www.meteopool.org/theme/images/wwCodes/60.gif",
+        "Rain, not freezing, intermittent, slight"
+    ],
+    "61": [
+        "https://www.meteopool.org/theme/images/wwCodes/61.gif",
+        "Rain, not freezing, continuous, slight"
+    ],
+    "62": [
+        "https://www.meteopool.org/theme/images/wwCodes/62.gif",
+        "Rain, not freezing, intermittent, moderate"
+    ],
+    "63": [
+        "https://www.meteopool.org/theme/images/wwCodes/63.gif",
+        "Rain, not freezing, continuous, moderate"
+    ],
+    "64": [
+        "https://www.meteopool.org/theme/images/wwCodes/64.gif",
+        "Rain, not freezing, intermittent, heavy"
+    ],
+    "65": [
+        "https://www.meteopool.org/theme/images/wwCodes/65.gif",
+        "Rain, not freezing, continuous, heavy"
+    ],
+    "66": [
+        "https://www.meteopool.org/theme/images/wwCodes/66.gif",
+        "Rain, freezing, slight"
+    ],
+    "67": [
+        "https://www.meteopool.org/theme/images/wwCodes/67.gif",
+        "Rain, freezing, moderate or heavy"
+    ],
+    "68": [
+        "https://www.meteopool.org/theme/images/wwCodes/68.gif",
+        "Rain or drizzle and snow, slight"
+    ],
+    "69": [
+        "https://www.meteopool.org/theme/images/wwCodes/69.gif",
+        "Rain or drizzle and snow, moderate or heavy"
+    ],
+    "70": [
+        "https://www.meteopool.org/theme/images/wwCodes/70.gif",
+        "Intermittent fall of snowflakes, slight"
+    ],
+    "71": [
+        "https://www.meteopool.org/theme/images/wwCodes/71.gif",
+        "Continuous fall of snowflakes, slight"
+    ],
+    "72": [
+        "https://www.meteopool.org/theme/images/wwCodes/72.gif",
+        "Intermittent fall of snowflakes, moderate"
+    ],
+    "73": [
+        "https://www.meteopool.org/theme/images/wwCodes/73.gif",
+        "Continuous fall of snowflakes, moderate"
+    ],
+    "74": [
+        "https://www.meteopool.org/theme/images/wwCodes/74.gif",
+        "Intermittent fall of snowflakes, heavy"
+    ],
+    "75": [
+        "https://www.meteopool.org/theme/images/wwCodes/75.gif",
+        "Continuous fall of snowflakes, heavy"
+    ],
+    "76": [
+        "https://www.meteopool.org/theme/images/wwCodes/76.gif",
+        "Diamond dust (with or without fog)"
+    ],
+    "77": [
+        "https://www.meteopool.org/theme/images/wwCodes/77.gif",
+        "Snow grains (with or without fog)"
+    ],
+    "78": [
+        "https://www.meteopool.org/theme/images/wwCodes/78.gif",
+        "Isolated star-like snow crystals (with or without fog)"
+    ],
+    "79": [
+        "https://www.meteopool.org/theme/images/wwCodes/79.gif",
+        "Ice pellets"
+    ],
+    "80": [
+        "https://www.meteopool.org/theme/images/wwCodes/80.gif",
+        "Rain shower(s), slight"
+    ],
+    "81": [
+        "https://www.meteopool.org/theme/images/wwCodes/81.gif",
+        "Rain shower(s), moderate or heavy"
+    ],
+    "82": [
+        "https://www.meteopool.org/theme/images/wwCodes/82.gif",
+        "Rain shower(s), violent"
+    ],
+    "83": [
+        "https://www.meteopool.org/theme/images/wwCodes/83.gif",
+        "Shower(s) of rain and snow, slight"
+    ],
+    "84": [
+        "https://www.meteopool.org/theme/images/wwCodes/84.gif",
+        "Shower(s) of rain and snow, moderate or heavy"
+    ],
+    "85": [
+        "https://www.meteopool.org/theme/images/wwCodes/85.gif",
+        "Snow shower(s), slight"
+    ],
+    "86": [
+        "https://www.meteopool.org/theme/images/wwCodes/86.gif",
+        "Snow shower(s), moderate or heavy"
+    ],
+    "87": [
+        "https://www.meteopool.org/theme/images/wwCodes/87.gif",
+        "Shower(s) of snow pellets or small hail, slight"
+    ],
+    "88": [
+        "https://www.meteopool.org/theme/images/wwCodes/88.gif",
+        "Shower(s) of snow pellets or small hail, moderate or heavy"
+    ],
+    "89": [
+        "https://www.meteopool.org/theme/images/wwCodes/89.gif",
+        "Shower(s) of hail no thunder, slight"
+    ],
+    "90": [
+        "https://www.meteopool.org/theme/images/wwCodes/90.gif",
+        "Shower(s) of hail no thunder, moderate or heavy"
+    ],
+    "91": [
+        "https://www.meteopool.org/theme/images/wwCodes/91.gif",
+        "Slight rain - Thunderstorm during the preceding hour"
+    ],
+    "92": [
+        "https://www.meteopool.org/theme/images/wwCodes/92.gif",
+        "Moderate or heavy rain - Thunderstorm during the preceding hour"
+    ],
+    "93": [
+        "https://www.meteopool.org/theme/images/wwCodes/93.gif",
+        "Slight snow, or rain and snow mixed or hail, Thunderstorm during the preceding hour"
+    ],
+    "94": [
+        "https://www.meteopool.org/theme/images/wwCodes/94.gif",
+        "Moderate or heavy snow, or rain and snow mixed or hail, Thunderstorm during the preceding hour"
+    ],
+    "95": [
+        "https://www.meteopool.org/theme/images/wwCodes/95.gif",
+        "Thunderstorm, slight or moderate, without hail, but with rain and/or snow"
+    ],
+    "96": [
+        "https://www.meteopool.org/theme/images/wwCodes/96.gif",
+        "Thunderstorm, slight or moderate, with hail"
+    ],
+    "97": [
+        "https://www.meteopool.org/theme/images/wwCodes/97.gif",
+        "Thunderstorm, heavy, without hail, but with rain and/or snow"
+    ],
+    "98": [
+        "https://www.meteopool.org/theme/images/wwCodes/98.gif",
+        "Thunderstorm combined with dust/sandstorm"
+    ],
+    "99": [
+        "https://www.meteopool.org/theme/images/wwCodes/99.gif",
+        "Thunderstorm, heavy with hail"
+    ]
+}
