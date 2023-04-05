@@ -1,15 +1,13 @@
 import asyncio
+import logging
 import os
 
-import logging
-
-from dotenv import load_dotenv
-
 from aiogram import Bot, Dispatcher, types
+from aiogram.contrib.middlewares.logging import LoggingMiddleware
+from aiogram.dispatcher.filters import Command, Text
 from aiogram.types import ParseMode
 from aiogram.utils import executor
-from aiogram.dispatcher.filters import Command, Text
-from aiogram.contrib.middlewares.logging import LoggingMiddleware
+from dotenv import load_dotenv
 
 from modules.Weather import WeatherData
 
@@ -82,11 +80,11 @@ user_location_received = set()
 
 @disp.message_handler(content_types=['location'])
 async def handle_location(message: types.Message):
-    user_latitude, user_longitude = message.location.latitude, message.location.longitude
+    msg_time = message.date.time()
     user_location_received.add(message.chat.id)
-    weather = WeatherData(latitude=user_latitude, longitude=user_longitude)
-    weather_msg = f'Your weather for today:\n {weather.data}'
-    await message.reply(weather_msg)
+    weather = WeatherData(latitude=message.location.latitude, longitude=message.location.longitude, date=msg_time)
+    await message.reply('Your weather for today:\n')
+    await message.answer_photo(photo=weather.daily_weather_as_pic())
 
 
 if __name__ == '__main__':

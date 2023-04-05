@@ -1,6 +1,6 @@
 from dataclasses import dataclass
-
 from typing import NewType
+
 from aiogram import types
 
 

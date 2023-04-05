@@ -1,10 +1,9 @@
-import aiohttp
-from aiohttp.web_exceptions import HTTPException
-
 import asyncio
-
 from datetime import datetime
 from functools import singledispatch
+
+import aiohttp
+from aiohttp.web_exceptions import HTTPException
 
 from modules import bot_typing
 
